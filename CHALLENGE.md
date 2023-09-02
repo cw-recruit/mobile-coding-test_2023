@@ -5,7 +5,7 @@
 1. [Use this template](https://github.com/new?template_name=mobile-coding-test_2023&template_owner=cw-recruit) をクリックし、自身の GitHub にこのリポジトリをコピーしてください
 1. [公式サイト](https://developer.android.com/studio/install?hl=ja) を参考に、Android Studio をインストールしてください
 1. [公式チュートリアル](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?hl=ja) を参考に、`Hello, World!` アプリを作成してください
-1. 作成した `Hello, World!` アプリを、コピーしたリポジトリへアップロードしてください
+1. 作成した `Hello, World!` アプリのソースコードを、コピーしたリポジトリへアップロードしてください
 
 ## 課題内容 (その 2)
 
